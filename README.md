@@ -9,6 +9,9 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davizinh-rei-07&theme=dark&layout=compact&langs_count=8&card_width=300" />
 </div>
 
+<div>
+<div style="displainy: inline_block; "background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
+
 ### Linguagens que utilizo no meu dia 💻:
 </div>
 <div style="displainy: inline_block; style="background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center"><br>
