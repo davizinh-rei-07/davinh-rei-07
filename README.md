@@ -19,3 +19,9 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br>
+
+<div style="displainy: inline_block; "background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
+
+Programador júnior, Apaixonado por jogos Digitais, eu sei o basico de HTML , CSS, , Estou me profissionaliJavascript
+</div>
+
