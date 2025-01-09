@@ -22,6 +22,6 @@
 
 <div style="displainy: inline_block; "background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
 
-Programador júnior, Apaixonado por jogos Digitais, eu sei o basico de HTML , CSS, , Estou me profissionaliJavascript
+Programador júnior, Apaixonado por jogos Digitais, eu sei o basico de HTML , CSS, , Estou me profissionalizando em Javascript.
 </div>
 
